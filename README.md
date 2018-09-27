@@ -1,6 +1,6 @@
 # README
 
-You are building an app to manage all the bees in the garden. Each bee can live in only one hive but work on different flowers. Flowers host many bees through flights.
+You are building an app to manage all the bees in the garden. Each bee can live in only one hive but work on different flowers. Flowers host many bees through flights. Hive and Flower migrations are set up for you
 
 1. Create relevant migrations
 
