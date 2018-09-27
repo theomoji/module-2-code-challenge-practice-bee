@@ -14,9 +14,9 @@ You are building an app to manage all the bees in the garden. Each bee can live 
 
 * Create a join table between flowers and bees called flight
 
-* /bees shows a list of names of all the bees, when clicking on an individual bee, the user is taken on a page to edit the bees details.
+* //////bees shows a list of names of all the bees, when clicking on an individual bee, the user is taken on a page to edit the bees details.
 
-* On bee edit page, the user can input a bee's name, toggle if the bee is a queen or not and pick a hive for the bee. //Bees' names should be unique and present.
+* ////On bee edit page, the user can input a bee's name, toggle if the bee is a queen or not and pick a hive for the bee. //Bees' names should be unique and present.
 
 * /flowers shows a list of flower names, it has a link to a page which would allow the user to generate a new flower. When an individual flower is clicked it would take you to that flowers page.
 

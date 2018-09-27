@@ -1,0 +1,6 @@
+<h1>All Flowers</h1>
+<ul>
+<%@flowers.each do |flower| %>
+  <li><%= link_to flower.name, flower %></li>
+  <% end %>
+</ul>
