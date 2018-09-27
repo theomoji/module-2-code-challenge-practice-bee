@@ -54,5 +54,4 @@ class HivesController < ApplicationController
       def set_bees
           @bees = Bee.all
       end
-
 end

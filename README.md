@@ -1,12 +1,14 @@
 # README
 
-You are building an app to manage all the bees in the garden. Each bee can live in only one hive but work on different flowers. Flowers host many bees through flights. Hive and Flower migrations are set up for you
+You are building an app to manage all the bees in the garden. Each bee can live in only one hive but work on different flowers. Flowers host many bees through flights. Hive migration and controller are already set up for you, Flower has only migration set up
 
 1. Create relevant migrations
 
-2. Seed the database
+2. Set up relationships
 
-3. Create routes, controllers and views according to the deliverables.
+3. Seed the database
+
+4. Create routes, controllers and views according to the deliverables.
 
 # Deliverables
 
