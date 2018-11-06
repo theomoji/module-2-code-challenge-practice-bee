@@ -48,7 +48,7 @@ class HivesController < ApplicationController
       end
 
       def hive_params
-          params.require(:hive).permit(:name, :honey_type,:bee_ids [])
+          params.require(:hive).permit(:name, :honey_type, bee_ids: [])
       end
 
       def set_bees
