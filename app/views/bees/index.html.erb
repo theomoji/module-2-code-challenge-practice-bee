@@ -1,0 +1,6 @@
+<h1>this is bee index page</h1>
+
+<% @bees.each do |bee| %>
+  <%= link_to bee.name, edit_bee_path(bee) %><br/>
+
+    <% end %>
